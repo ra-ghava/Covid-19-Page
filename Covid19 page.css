@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.covid-container {
+    border-style: solid;
+    border-width: 0px;
+    border-color: #0967d219;
+}
+
+.covid19-top-section {
+    margin: 10px;
+}
+
+.main-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.covid19-top-section-button {
+    color: #ffffff;
+    background-color: #0967d2;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 500;
+    width: 85px;
+    height: 30px;
+    border-width: 0px;
+    border-radius: 8px;
+}
+
+.covid19-top-section-image {
+    height: 100px;
+    width: 125px;
+    margin-left: 20px;
+}
+
+.middle-section {
+    background-color: #0967d219;
+    height: 120px;
+    padding: 20px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    margin: 10px;
+}
+
+.middle-section-main-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.middle-section-main-paragraph {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.middle-section-image {
+    height: 70px;
+    width: 70px;
+}
+
+.middle-section-heading {
+    margin-left: 20px;
+}
+
+.symptoms-section-heading {
+    color: #323f4b;
+    font-size: 20px;
+    font-family: "Roboto";
+    padding: 17px;
+}
+
+.symptoms-section {
+    background-color: #3ebd93;
+    height: 125px;
+    width: 120px;
+    padding: 12px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin: 10px;
+
+}
+
+.symptoms-section-image {
+    height: 80px;
+    width: 80px;
+}
+
+.symptoms-section-text {
+    color: #ffffff;
+    text-align: center;
+    font-family: "Roboto";
+    font-weight: 200;
+    font-size: 15px;
+}
+
+.samplecolor {
+    background-color: #e668a7;
+}
+
+.samplescolor {
+    background-color: #0967d2;
+}
+
+.videos-section-heading {
+    color: #323f4b;
+    font-size: 20px;
+    font-family: "Roboto";
+    padding: 12px;
+}
+
+.samplefooter-color {
+    background-color: #e12d3919;
+    height: 160px;
+}
